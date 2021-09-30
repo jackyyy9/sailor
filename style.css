@@ -11,3 +11,8 @@ body {
  img {
    align-self: center;
 }
+ul {
+  align-self: center;
+  display: flex;
+  margin: 0 1em;
+}
