@@ -4,4 +4,10 @@ body {
   font-size: 18.5px;
   font-family: cursive;
   font-stretch: semi-condensed;
+  display: flex;
+  flex-direction:column;
+  align-items: flex-start;
+}
+ img {
+   align-self: center;
 }
